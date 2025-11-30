@@ -10,14 +10,7 @@ header {
     color: white;
     padding: 15px;
     text-align: center;
-    position: sticky;
-    top: 0;
-}
-
-header nav a {
-    color: white;
-    margin: 0 10px;
-    text-decoration: none;
+    font-size: 24px;
     font-weight: bold;
 }
 
@@ -71,12 +64,14 @@ h2 {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #25D366;
+    background-color: #E1306C; /* Instagram color */
     color: white;
     cursor: pointer;
     font-weight: bold;
+    width: 100%;
+    font-size: 16px;
 }
 
 .id-card button:hover {
-    background-color: #128C7E;
+    background-color: #C13584;
 }
